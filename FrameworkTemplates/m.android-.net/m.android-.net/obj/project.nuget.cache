@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sY03AwJ6gY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesse\\OneDrive\\JLabcloud\\AndroidApp1\\AndroidApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesse\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

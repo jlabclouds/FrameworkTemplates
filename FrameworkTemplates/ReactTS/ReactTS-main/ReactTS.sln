@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactts", "reactts.esproj", "{5ED64DBC-1974-81AD-44D2-2274FD4D8998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED64DBC-1974-81AD-44D2-2274FD4D8998}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90BEF57-61B2-4DE0-8285-B77AB4827D62}
+	EndGlobalSection
+EndGlobal
